@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KursovProektWindowsForms", "KursovProektWindowsForms\KursovProektWindowsForms.csproj", "{54E0A672-5AD0-4EBC-B6B8-85A9A51F8A08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiguresLib", "FiguresLib\FiguresLib.csproj", "{6ABC775C-CB91-4301-90B6-BF8865B3EE54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54E0A672-5AD0-4EBC-B6B8-85A9A51F8A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54E0A672-5AD0-4EBC-B6B8-85A9A51F8A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54E0A672-5AD0-4EBC-B6B8-85A9A51F8A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54E0A672-5AD0-4EBC-B6B8-85A9A51F8A08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ABC775C-CB91-4301-90B6-BF8865B3EE54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ABC775C-CB91-4301-90B6-BF8865B3EE54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ABC775C-CB91-4301-90B6-BF8865B3EE54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ABC775C-CB91-4301-90B6-BF8865B3EE54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CFE8F89-7884-47A3-A7E3-C7B90D6F9AC1}
+	EndGlobalSection
+EndGlobal
